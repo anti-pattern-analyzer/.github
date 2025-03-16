@@ -1,4 +1,4 @@
-# Organization: Anti-Pattern Analyzer
+# Anti-Pattern Analyzer
 
 This document provides an overview of the **Anti-Pattern Analyzer** component within the broader microservices monitoring and observability project. Here, we describe how it is organized, the way it fits into the larger system, and its internal structure for detecting and reporting architectural anti-patterns.
 
